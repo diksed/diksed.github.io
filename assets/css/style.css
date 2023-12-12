@@ -2222,3 +2222,13 @@ textarea.form-input::-webkit-resizer {
   background-color: #0056b3;
   /* Hover durumunda arka plan rengi */
 }
+
+a.data-nav-link {
+  color: var(--orange-yellow-crayola);
+  text-decoration: none;
+  background-color: transparent;
+  padding: 3px 5px;
+  border-radius: 5px;
+  display: inline-block;
+  cursor: pointer;
+}
